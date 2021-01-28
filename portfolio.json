@@ -1,12 +1,10 @@
 {
 "budget": 4000.0,
-"stocks": {
-    "AAPL": 25.0,  
-    "SQ": 25.0,  
-    "PYPL": 10.0, 
-    "TSLA": 20.0,  
-    "NVDA": 10.0,
-    "BABA": 4.0,
-    "JETS": 4.0
+"portfolio": {
+        "AAPL": 25.0,
+        "SQ": 25.0,
+        "TQQQ": 20.0, 
+        "FUBO": 10.0,
+        "VRM": 10.0
   }
 }
