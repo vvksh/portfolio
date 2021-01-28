@@ -1,6 +1,6 @@
 {
 "budget": 4000.0,
-"portfolio": {
+"stocks_allocation": {
         "AAPL": 25.0,
         "SQ": 25.0,
         "TQQQ": 20.0, 
