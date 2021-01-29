@@ -13,8 +13,9 @@ stocks:
   - TSLA
   - TWLO
   - ZM
+  - CRWD
 etfs: 
   - TQQQ
   - ARKG
   - ARKK
-  - CRWD
+  - FINX
