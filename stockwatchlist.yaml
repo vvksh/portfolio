@@ -1,24 +1,20 @@
-companies:
-    - "AAPL"
-    - "AFRM"
-    - "ABNB"
-    - "AMD"
-    - "DIS"
-    - "MSFT"
-    - "MELI"
-    - "OKTA"
-    - "PINS"
-    - "SHOP"
-    - "SNAP"
-    - "TSLA"
-    - "TWLO"
-    - "ZM"
- etfs:
-    - "TQQQ"
-    - "ARKG"
-    - "ARKK"
-    - "CRWD"
-    - "FINX"
-    - "ICLN"
-    - "IDNA"
-    - "LIT"
+companies: 
+  - AAPL
+  - AFRM
+  - ABNB
+  - AMD
+  - DIS
+  - MSFT
+  - MELI
+  - OKTA
+  - PINS
+  - SHOP
+  - SNAP
+  - TSLA
+  - TWLO
+  - ZM
+etfs: 
+  - TQQQ
+  - ARKG
+  - ARKK
+  - CRWD
