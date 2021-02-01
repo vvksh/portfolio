@@ -1,10 +1,13 @@
 {
-"budget": 4000.0,
+"budget": 5000.0,
 "stocks_allocation": {
-        "AAPL": 25.0,
-        "SQ": 25.0,
+        "AAPL": 20.0,
+        "SQ": 20.0,
         "TQQQ": 20.0, 
-        "FUBO": 10.0,
-        "VRM": 10.0
+        "VRM": 10.0,
+        "SE": 15.0,
+        "ARKK": 5.0,
+        "FINX": 8.0,
+        "LIT": 7.0
   }
 }
