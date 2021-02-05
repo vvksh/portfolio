@@ -14,8 +14,39 @@ stocks:
   - TWLO
   - ZM
   - CRWD
+  - PLTR
+  - SQ
+  - FUBO
+  - SNOW
+  - CRM
+  - NET
+  - FSLY
+  - AI
+  - DDOG
+  - PTON
+  - CRWD
+  - SUMO
+  - DOCU
+  - FVRR
+  - OKTA
+  - TTD
+  - JD
+  - BABA
+  - ZS
+  - ETSY
+  - LMND
+  - PYPL
+  - NFLX
+  - DIS
+  - TWTR
+  - WMT
+  - ROKU
+  - SPOT
 etfs: 
   - TQQQ
   - ARKG
   - ARKK
   - FINX
+  - IPOE
+  - IPO
+  - LIT
